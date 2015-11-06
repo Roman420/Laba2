@@ -1,8 +1,7 @@
 #include "sdt.h"
-int main()
+  int main()
 {
-
-int a,b;
-cout << "Vvedite chisla a u b: ";
-cin a >> b >>;
+    cout<<" BBedute dva chisla \n";
+    int a,b;
+    cin>>a>>b;
 }
