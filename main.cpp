@@ -1,4 +1,5 @@
 #include "sdt.h"
+//This is example
   int main()
 {
     cout<<" BBedute dva chisla \n";
